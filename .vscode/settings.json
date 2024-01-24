@@ -4,14 +4,7 @@
             "previewLimit": 50,
             "driver": "SQLite",
             "name": "LAB2",
-            "database": "${workspaceFolder:MDEV1001-Labs}/Mdev1001-Lab/Mdev1001-Lab2/LAB2"
-        },
-        {
-            "previewLimit": 50,
-            "driver": "SQLite",
-            "name": "LAB3",
-            "database": "${workspaceFolder:MDEV1001-Labs}/Mdev1001-Lab/Mdev1001-lab3/LAB3"
+            "database": "${workspaceFolder:MDEV1001-Labs}/Mdev1001-Lab/Mdev1001-Lab2/LAB2.db"
         }
-    ],
-    "sqltools.useNodeRuntime": true
+    ]
 }
