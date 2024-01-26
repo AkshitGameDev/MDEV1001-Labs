@@ -3,8 +3,8 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "LAB2",
-            "database": "${workspaceFolder:MDEV1001-Labs}/Mdev1001-Lab/Mdev1001-Lab2/LAB2.db"
+            "name": "Assingment1",
+            "database": "${workspaceFolder:MDEV1001-Labs}/Mdev1001-Assingment/Assingment1/Assingment1(lab2extended).db"
         }
     ]
 }
